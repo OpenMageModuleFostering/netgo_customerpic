@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Netgo_Customerpic",
+    "name": "OpenMageModuleFostering\/Netgo_Customerpic",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Allows customer to upload profile image from account dashboard",
     "authors": [
-    {
-        "name": "Netgo",
-        "email": "77vips@gmail.com"
-    }
-],
+        {
+            "name": "Netgo",
+            "email": "77vips@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
