@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Netgo_Customerpic",
+    "name": "openmage-module-fostering\/netgo_customerpic",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Allows customer to upload profile image from account dashboard",
     "authors": [
